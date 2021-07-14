@@ -3,7 +3,7 @@
 Upload videos to Mux from the Wagtail admin, keep a local record of Mux assets
 and use them in Wagtail pages.
 
-https://user-images.githubusercontent.com/15543/125637287-60e442f9-2a27-4c1f-9ce4-f61869af27a3.mp4
+https://user-images.githubusercontent.com/15543/125639203-844a8185-8700-441b-baab-b1458aab92d3.mp4
 
 ## Local development
 
